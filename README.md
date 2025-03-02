@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **AI chatbots**.
-- 🌱 I’m constantly learning and exploring **Cloud Infrastructure (AWS, Azure)**, frontend/backend development and **AI Research**.
+- 🌱 I’m constantly learning and exploring **Cloud Infrastructure (AWS, Azure, GCP, AliBaba)**, frontend/backend development and **AI Research**.
 - 💬 Ask me about **AI/ML applications**.
-- ⚡ Fun fact: I enjoy exploring **health-related software side projects** for fun!
+- ⚡ Fun fact: I enjoy exploring **fintech related software side projects** for fun!
 
 ---
 
