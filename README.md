@@ -1,42 +1,109 @@
-<h1 align="center">Hi there 👋, I'm Danial</h1>
-<h3 align="center">AI Software Engineer | Passionate about AI/Algorithms , Cloud Technologies, and Software Development</h3>
+<h1 align="center">Hi 👋, I'm Danial</h1>
+
+<h3 align="center">AI Product Manager | FinTech | AI/ML | Cloud & Software Engineering</h3>
 
 <p align="center">
-  <em>Based in Malaysia and Singapore</em>
+  Building practical AI solutions at the intersection of <b>financial services, data, and software engineering</b>.
+</p>
+
+<p align="center">
+  🇲🇾 Malaysia &nbsp; | &nbsp; 🎓 Penn MAS in Computer Science
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **AI chatbots**.
-- 🌱 I’m constantly learning and exploring **Cloud Infrastructure (AWS, Azure, GCP, AliBaba)**, frontend/backend development and **AI Research**.
-- 💬 Ask me about **AI/ML applications**.
-- ⚡ Fun fact: I enjoy exploring **fintech related software side projects** for fun!
+### 👨‍💻 About Me
+
+* 🚀 I work at the intersection of **AI, product, and financial technology**, building and delivering AI-driven solutions.
+* 🤖 Currently focused on **Generative AI, AI agents, RAG, and intelligent assistants** for enterprise and financial-services use cases.
+* ☁️ Experienced with **AWS, Azure, GCP, Kubernetes, CI/CD, and cloud-native architectures**.
+* 🧠 Interested in **AI/ML, NLP, data engineering, system design, and applied AI research**.
+* 💳 Passionate about **FinTech and payments**, and enjoy building side projects around financial workflows and AI.
+* 🎓 Currently pursuing a **Master of Applied Science in Computer Science at the University of Pennsylvania**.
+* ⚡ I enjoy turning ambiguous problems into **working products and prototypes**.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Technologies
+
+#### AI / Machine Learning
+
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
+**Generative AI:** LLMs · RAG · AI Agents · LangChain · Embeddings · Vector Search · NLP · AWS Bedrock
+
+#### Cloud & Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+</p>
+
+**Cloud:** AWS · Azure · GCP · Kubernetes · GKE · Docker · CloudWatch
+
+#### Software Engineering
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</p>
+
+**Backend:** Python · Java · Node.js · Express
+**Frontend:** React · JavaScript · MUI
+**Data:** Pandas · SQLite · Weaviate
+
+#### DevOps & Engineering
+
+**CI/CD:** Bitbucket · CircleCI · Helm · Argo CD
+**Messaging:** RabbitMQ
+**Observability:** Grafana · Prometheus · Loki
+**Security:** IAM · Cloud Security · Application Security
+
 ---
 
-### 📫 Connect with Me:
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/danial-zakaria-aa898511b/))
+### 🔭 Current Interests
+
+I'm particularly interested in:
+
+**AI Agents**
+Designing agents that can reason, use tools, retrieve information, and complete real-world workflows.
+
+**FinTech & Payments**
+Exploring how AI can improve cross-border payments, financial operations, compliance, and customer experiences.
+
+**Enterprise AI**
+Building reliable AI systems with strong grounding, security, governance, and measurable business outcomes.
+
+**Cloud & Data Platforms**
+Designing scalable architectures for AI and analytics workloads across modern cloud platforms.
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and reach out!
+### 📚 Education
+
+**University of Pennsylvania**
+Master of Applied Science in Computer Science
+
+**University of Manchester**
+MEng Chemical Engineering — First Class Honours
+
+---
+
+### 📫 Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/danial-zakaria-aa898511b/)
+* 💻 [GitHub](https://github.com/)
+
+---
+
+<p align="center">
+  Thanks for stopping by! 🚀
+</p>
